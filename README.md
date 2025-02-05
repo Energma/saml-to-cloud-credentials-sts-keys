@@ -1,5 +1,3 @@
-#### Energma corp. (https://www.energma.co/)
-
 ## Saml to cloud credentials (sts token)
 
 Google Chrome Extension, which converts a SAML 2.0 assertion to Cloud Provider STS Keys (temporary credentials).
